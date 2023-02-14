@@ -1,5 +1,4 @@
 print """
-COMPARE DISTRIBUTIONS V1.1
 
 It is a simple tool to compare two normal, Poisson or Gamma distributions.
 Given the means and standard deviations of the distributions it will give
@@ -8,11 +7,6 @@ is bigger than a random draw from a population with the smaller mean.
 
 The output of the script is a result of the test and a graph illustrating
 the two distributions.
-
-ver. 1.0 2011
-ver. 1.1 2014
-
-Maciej Workiewicz 2014
 
 """
 
